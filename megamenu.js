@@ -1,4 +1,4 @@
-// free to use - puckett5.com / https://github.com/m3puckett
+// free to use, MIT license - puckett5.com / https://github.com/m3puckett/megamenu.git
 // lightweight megamenu with click to open
 const menuItems = document.getElementsByClassName("megamenu-show");  // anything that is opened with us
     closeMenus = function ( exceptMenuId ) {
